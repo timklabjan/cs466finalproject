@@ -1,0 +1,3 @@
+CACCG
+-A--G
+score: -1

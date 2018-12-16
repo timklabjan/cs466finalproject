@@ -1,0 +1,3 @@
+AGCACGTGTC
+-----GT-TA
+score: -13
